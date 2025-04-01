@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.about {
+  text-align: justify;
+  word-wrap: break-word;
+}
+
+.head{
+	background-color: #002011;
+	color: white;
+}
+
+.sub1{
+	color: #002011;
+}
+.sub2{
+	color: #115c4b;
+}
+
+.img1{
+	width: 300px;
+	height: 200px;
+}
+
+.espacio{
+	margin-top: 50px;
+}
+
+.card{
+
+	background-color: #093e2e;
+	border: none;
+}
+
+.lista{
+	color: white;
+}
+
+p{
+	align-content: right;
+}
+
